@@ -1,9 +1,9 @@
 var playlist = new Playlist();
 
-var hereComesTheSun = new Song("Here Comes the Sun", "The Beatles", "2:54");
-var walkingOnSunshine = new Song("Walking on Sunshine", "Katrina and the Waves", "3:43");
+var hereComesTheSun = new Song("Ti si pjesma moje duse", "Mate Miso Kovac ", "2:54");
+var walkingOnSunshine = new Song("Kamerav ", "Saban Bajramovic ", "3:43");
 
-var manOfSteel = new Movie("Man of Steel", 2013, "2:23:00");
+var manOfSteel = new Movie("Otpisani", 1970, "2:00");
 
 playlist.add(hereComesTheSun);
 playlist.add(walkingOnSunshine);

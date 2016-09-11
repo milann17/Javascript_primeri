@@ -8,7 +8,7 @@ Dice.prototype.roll = function () {
     return randomNumber;
 }
 
-var dice = new Dice(6);
+var dice = new Dice(16);
 var dice10 = new Dice(10);
 
 console.log(dice.roll === dice10.roll);
